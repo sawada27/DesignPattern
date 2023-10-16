@@ -43,7 +43,7 @@ namespace Decorator
 
         private void SetRedBorder()
         {
-            Console.WriteLine("Do some thing.Set red border");
+            Console.WriteLine("Set red border");
         }
     }
 
